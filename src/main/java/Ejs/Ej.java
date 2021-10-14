@@ -8,7 +8,7 @@ public class Ej {
         System.out.println("Introduce el número del ejercicio (11-20)");
         Scanner sc = new Scanner(System.in);
         int ejercicio=sc.nextInt();
-
+//
 
         switch (ejercicio) {
 
